@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "queue_ops.h": "c",
+        "env.h": "c"
+    }
+}
