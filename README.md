@@ -1,2 +1,2 @@
-# DSAlgo
-Data Structures &amp; Algorithms 복습
+# c-playground
+C로 짠 코드들 모음
